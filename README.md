@@ -5,7 +5,7 @@ This project is the creation of a password generator given a bit of starter code
 
 [here is a link to the website.](https://alexgriffitts.github.io/PasswordGen/)
 
-[here is an image of the website.](../Assets/03-javascript-homework-demo.png)
+[here is an image of the website.](./Assets/03-javascript-homework-demo.png)
 
 ## installation
 N/A
